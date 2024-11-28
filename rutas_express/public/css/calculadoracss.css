@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .calculadora{
 
     width: 300px;
@@ -14,4 +15,22 @@ input[type="button"]{
     margin: 5px;
     font-size: 20px;
     cursor: pointer;
+=======
+.calculadora{
+
+    width: 300px;
+    margin: 50px auto;
+    border: 2px solid rgb(27, 25, 25);
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(17, 60, 125);
+}
+
+input[type="button"]{
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    font-size: 20px;
+    cursor: pointer;
+>>>>>>> 1d5c8d8af510a451a8aa57dc67b6d77d17c4ed86
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "node",
   "version": "1.0.0",
@@ -13,3 +14,20 @@
   },
   "devDependencies": {}
 }
+=======
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "probando nodejs y npm",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {}
+}
+>>>>>>> 1d5c8d8af510a451a8aa57dc67b6d77d17c4ed86
